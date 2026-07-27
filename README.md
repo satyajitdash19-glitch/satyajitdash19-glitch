@@ -1,82 +1,154 @@
-# 💫 About Me
+<div align="center">
 
-Hi, I'm **Satyajit Dash** 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Satyajit%20Dash&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-I'm a Computer Science student passionate about programming, problem-solving, and building practical software solutions. I enjoy learning new technologies, improving my coding skills, and developing projects that strengthen my understanding of computer science fundamentals.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Problem+Solver;C+%7C+C%2B%2B+%7C+Python+%7C+Java;Learning+Web+Development;Always+Learning+Something+New"/>
 
-### 🚀 Currently Learning
-- C, C++, Python & Java
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=satyajitdash19-glitch&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<table>
+<tr>
+<td width="65%">
+
+### 👨‍💻 Hello, I'm <b>Satyajit Dash</b>
+
+🎓 Computer Science Student
+
+💻 Passionate about programming and software development.
+
+🚀 I enjoy building practical projects, solving coding problems, and continuously learning new technologies.
+
+📚 Currently focusing on:
+
+- C
+- C++
+- Java
+- Python
+- SQL
+- DBMS
+- Data Structures & Algorithms
 - HTML, CSS & JavaScript
-- SQL, DBMS & RDBMS
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Operating Systems & Software Engineering
 
-### 💡 What I'm Working On
-- Building real-world software projects
-- Writing clean, maintainable, and efficient code
-- Improving problem-solving and debugging skills
-- Expanding my knowledge of full-stack development
+🎯 My goal is to become a skilled software engineer by strengthening my fundamentals and creating impactful applications.
 
-### 🎯 Goals
-- Continuously improve as a software developer
-- Build impactful and scalable applications
-- Contribute to open-source projects
-- Learn modern software development practices
-- Collaborate with developers and technology communities
+</td>
+
+<td>
+
+<img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 Connect With Me
+# ⚡ Tech Stack
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashsatyajit568@gmail.com)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,git,github,vscode&perline=6"/>
 
-# 💻 Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📚 Currently Learning
 
-![](https://github-readme-stats.shion.dev/api?username=satyajitdash19-glitch&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=satyajitdash19-glitch&theme=blueberry&hide_border=false)
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb&perline=4"/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=satyajitdash19-glitch&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyajitdash19-glitch&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitdash19-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=satyajitdash19-glitch&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=satyajitdash19-glitch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=satyajitdash19-glitch&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+
+</div>
 
 ---
 
-# 📈 Contribution Stats
+# 📊 Contribution Graph
 
-![](https://github-contributor-stats.vercel.app/api?username=satyajitdash19-glitch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajitdash19-glitch&theme=tokyo-night&hide_border=true"/>
 
-# 💭 Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=satyajitdash19-glitch&style=for-the-badge&color=0e75b6)
+# 💻 Coding Activity
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=satyajitdash19-glitch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
+# 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:dashsatyajit568@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<i>"Learning never exhausts the mind. Every line of code is a step toward becoming better."</i>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
