@@ -33,7 +33,7 @@
 - Java
 - Python
 - SQL
-- DBMS
+- RDBMS
 - Data Structures & Algorithms
 - HTML, CSS & JavaScript
 
